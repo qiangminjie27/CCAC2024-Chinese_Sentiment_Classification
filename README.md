@@ -86,7 +86,7 @@ $Recall_i$是实际为第i类的样本中被模型预测为第i类的比例。
 
 
 ## 报名网站
-待定
+[](https://docs.qq.com/form/page/DY1BmR1JWUVZneFpB)
 
 
 ## 重要日期
