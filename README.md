@@ -89,6 +89,13 @@ $Recall_i$是实际为第i类的样本中被模型预测为第i类的比例。
 [报名表](https://docs.qq.com/form/page/DY1BmR1JWUVZneFpB)
 
 
+## 提交方式
+请参赛团队将最终的预测结果发送到qiangminjie27@gmail.com，在邮件中请注明机构名称以及负责人姓名。
+
+注意：如果多次重复发送的话，以最新一次为准。
+
+
+
 ## 重要日期
 
 | 事项                       | 时间          |
