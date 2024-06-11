@@ -1,0 +1,132 @@
+User profile
+id=1709069392, screenName=琚常龙, location=浙江 杭州, gender=m
+Concern
+2050740830, 1140230541, 2741284032, 1290944031, 1812248634, 2189094991, 3460063922, 3872630385, 1430046394, 1834866952, 1696307484, 1700008033, 3477529567, 1853226155, 3866953070, 2022660203, 1871531833, 1172721630, 2176617860, 1857231895, 1819157845, 1742212722, 1687544240, 1664024721, 1868513911, 1802023265, 1847116383, 1047671131, 3759554642, 1851390110, 1543862134, 1303947202, 1803629800, 1628164735, 2242862731, 1863309910, 1715197131, 1635944583, 1914475941, 1659070707, 1930949527, 2655080431, 1817911387, 1876046675, 1633980635, 1749954061, 1918815387, 1752657587, 1652313674, 1721418402, 2728007433, 1676518253, 1738689537, 1649256397, 1921738512, 1739680973, 1820592425, 1793994957, 1963675821, 2053044707, 2411719573, 2640702293, 2056513322, 1301198581, 2076513201, 3839364859, 2680639743, 1795123932, 1731204192, 2142038757, 1668592974, 1706328212, 1850846792, 1812077867, 2663381063, 2081572527, 1313790331, 2490572123, 2147483647, 2028819827, 1393855777, 1781387491, 3750628665, 2500422324, 2356618487, 2352218977, 3408328702, 1755370981, 1212812142, 1730336902, 1266321801, 2345544584, 1361074815, 1656809190, 1793285524, 1739928273, 1790596553, 2145291155, 1789617690, 1841062771, 1732657182, 1846245933, 1731986465, 1662047260, 1773041022, 1915912124, 1765411790, 3211422280, 1593315853, 2265091755, 2233093252, 3176745955, 1583943085, 1851060211, 2919884680, 2919546550, 2920377344, 2919814742, 1574037271, 2803636844, 2807689330, 2790103714, 2920601302, 2803760230, 2919499732, 2804335802, 2789836952, 2789830540, 2805468764, 2803455050, 1584050107, 2920042920, 2804016290, 1951657750, 1913435960, 2920163580, 1962310741, 2328167854, 1781378107, 1195230310, 1229854867, 1763582395, 
+Follower
+888751922, 3835086400, 3888599981, 3886864467, 3826240455, 2189094991, 3523978381, 2741284032, 1290944031, 3872630385, 1795123932, 3928503627, 1430046394, 1696307484, 3921923077, 1543862134, 1649256397, 3759554642, 1633980635, 1851390110, 2411719573, 1706328212, 2640702293, 2056513322, 1301198581, 2076513201, 1668592974, 1731204192, 3839364859, 1812077867, 1313790331, 1669914685, 1930357871, 2028819827, 1026218173, 1393855777, 2500422324, 2356618487, 2352218977, 3602844867, 1915912124, 1765411790, 3493398995, 3493081461, 3483707051, 3463466874, 3459573212, 3453875892, 3452268694, 3452136962, 2810040350, 1778185080, 3179260747, 3043992904, 2919610690, 3043795972, 2920058012, 1727995800, 2920041010, 2809164694, 3043589334, 1776752334, 1851060211, 1583943085, 3149313114, 3202412367, 2482672174, 2659469153, 2265091755, 1593315853, 2328167854, 
+Status
+我在PPS爱频道发现了《最新小品视频》，感觉挺不错的，快来看看吧！http://t.cn/8kitjpe
+我在PPS爱频道发现了《热播吻戏床片段大全盘点》，感觉挺不错的，快来看看吧！http://t.cn/8kJthSh
+我在PPS爱频道发现了《最新相声》，感觉挺不错的，快来看看吧！http://t.cn/8kJ5FJd
+我在PPS爱频道发现了《吻戏床片段大全集锦》，感觉挺不错的，快来看看吧！http://t.cn/8kJ4RAR
+分享内容
+发送内容
+lisalisalisa 
+分享内容 
+你你你你 
+测试通过WeiboSDK发送文字到微博! 
+下载地址:http://t.cn/zQoDbbv
+moon
+发表了博文 《UIPanGestureRecognizer类——为view添加手势》 - #import @interface TestGestureRecognizerViewController  http://t.cn/zRbxidM
+我更新了微博iPad客户端3.4.0版本啦！3.4.0版新增互相关注、悄悄关注分组，可筛选查看微博内容；支持浪小花、emoji表情，评论发博更有趣。立即更新，更多新功能抢先体验！下载地址：http://t.cn/h98rBI
+爱淘和爱淘生活的二维码
+推荐一款很好用的购物软件--爱淘生活！下单的产品可以在淘宝中查到订单详情的，安全放心.里面的店家都是皇冠级别的。IPHONE版猛戳http://t.cn/z8eL5tA IPAD版猛戳http://t.cn/z8DZ8SL 赶紧下载吧亲们！
+我在用相机控为自己定制精美的图片，下载地址:http://t.cn/z8dzbsY ,和我一起玩转照片吧!
+爱淘生活，一个专注淘宝优惠的app软件，方便你我他的生活！
+@SinaAppEngine 我正在用PPS影视圈，可以记录、分享好友的影视动态，挺好玩的，快来PPS影视圈搜索 路过七夕0_0 关注我吧:http://t.cn/zTKi2n2
+ http://t.cn/h5mwx
+y
+发表了博文 《组合动画CAAnimationGroup》 - 先在自定义的ViewController里声明定义一个UIImageView 1 @property (nonatomic,retain) http://t.cn/z8UwEfj
+发表了博文 《键盘的inputAccessoryView属性》 - UITextFields和UITextView有一个inputAccessoryView的属性，当你想在键盘上展示一个自定义的vie http://t.cn/z8UwYap
+发表了博文 《KVO的概述与使用》 - 一，概述 KVO,即：Key-Value Observing，它提供一种机制，当指定的对象的属性被修改后，则对象就会接受到通知。简单的说就是每次指定的被观察的对 http://t.cn/zQG5BcX
+发表了博文 《使用NSKeyedArchiver保存数据》 - - (NSMutableArray *)loadMarkersFromFilePath:(NSString *)filePath {   http://t.cn/zQhYRHn
+我正在使用《我爱看漫画》观看漫画《恋爱三叶草》,管快来下载吧 http://t.cn/zQvivAy                  来自我的iPhone
+我正在使用《我爱看漫画》观看漫画《会长可以说喜欢你吗》,管快来下载吧 http://t.cn/zQvivAy                  来自我的iPhone
+我正在使用《我爱看漫画》观看漫画《今天开始是哥哥》,管快来下载吧 http://t.cn/zQvivAy                  来自我的iPhone
+发表了博文 《iOS多线程编程：线程同步总结》 - 1：原子操作 - OSAtomic系列函数 iOS平台下的原子操作函数都以OSAtomic开头，使用时需要包含头文件。不同线程如果通过原子操作函数对 http://t.cn/zHDDelO
+_obj的意义详解》 - 我们在进行iOS开发时，经常会在类的声明部分看见类似于@synthesize w http://t.cn/zHDdeZA
+发表了博文 《FireFox浏览器插件SQLite Manager管理数据库》 - 在程序中常会使用到数据库存储一些大型数据，但是数据库创建添加数据以后想查看里面都是什么内容，如果没有安装数据库管理软 http://t.cn/zHgGHzR
+发表了博文 《iPhone/iPad全屏截图与区域截图的几种方法》 - 截取本区域(self.view): 1 2 3 4 5 UIGraphicsBeginImageContext(CGSizeMa http://t.cn/zHuWVkA
+发表了博文 《iOS 5中的strong和weak关键字》 - iOS 5 中对属性的设置新增了strong 和weak关键字来修饰属性（iOS 5 之前不支持ARC） strong 用来修饰强引用的 http://t.cn/zHpJ3r0
+我在玩具盒发现了"盆栽很好",伙伴们快来看看吧 地址:http://t.cn/zjlX8fg
+发表了博文 《iphone NSRunLoop 概述与原理》 - Iphone开发-NSRunLoop概述和原理 1.什么是NSRunLoop？ 我们会经常看到这样的代码：   - (IBAction http://t.cn/zHyJWeg
+我在玩具盒发现了"现代风格 餐厅",伙伴们快来看看吧 地址:http://t.cn/zjlX8fg
+ [[UILabel alloc] initWithFrame:CGRectMake(0
+发表了博文 《stretchableImageWithLeftCapWidth》 - - (UIImage *)stretchableImageWithLeftCapWidth:(NSInteger) http://t.cn/zHzFBVy
+ [[TodoViewC http://t.cn/zHzFvtc
+发表了博文 《UITableView 基本使用方法总结》 - 1.   首先，Controller需要实现两个  delegate ，分别是  UITableViewDelegate 和  UITab http://t.cn/zHzk1Au
+发表了博文 《iPhone开发之图片切换》 - 今天我来说一下如何让UIImageView在切换图片时实现幻灯片效果。首先，我们需要引入QuartzCore.framework这个框架，具体步骤我就略 http://t.cn/zHzBlgi
+我在玩具盒发现了"标点品牌/皮床软床床头柜/现代时尚简约/储物柜置物柜/仿皮G49",伙伴们快来看看吧 地址:http://t.cn/zjlX8fg
+发表了博文 《设置搜索框（UISearchBar）的背景为透明》 - 方法十分简单，不需要继承UISearchBar重写layout函数。 [searchBar setBackgroundImage: http://t.cn/zTTH3rH
+发表了博文 《自定义UITableViewCell上的delete按钮》 - //通过UITableViewDelegate方法可以实现删除 tableview中某一行 //滑动删除 -(void)t http://t.cn/zTTH9Tc
+发表了博文 《iOS的影片播放 MediaPlayer 和 AVPlayer》 - 在iOS開發上，如果遇到需要播放影片，如開機動畫…，我們很習慣地會使用MediaPlayer來播放影片，因為很方便使 http://t.cn/zTWsApG
+发表了博文 《CALayer》 - 一阵子读到一篇介绍CALayer（这里简单地称其为层）的教程，比较简单易懂，适合初学者，我在这里就不完全翻译了，只是把要点说明一下。   首先要说的是CALayer http://t.cn/zTWFBuU
+发表了博文 《AVFoundation》 - 1
+发表了博文 《iphone ios取出视频的每一帧图片（关键帧，AVAssetImageGenerator）》 - [mImageGenerator generateCGImagesAsynchron http://t.cn/zTWFiO4
+发表了博文 《AVAssetImageGenerator》 - - (UIImage*) thumbnailImageForVideo:(NSURL *)videoURL atTime:(NSTime http://t.cn/zTWF24g
+发表了博文 《IOS的一些小知识》 - 1.停止UIView动画的方法： #import  [self.view.layer removeAllAnimations]; 2.block页面传值方法：  http://t.cn/zTWk02A
+发表了博文 《CMTimeMakeWithSeconds CMTimeMake》 - CMTimeMake(a,b) a当前第几帧
+发表了博文 《AVAudioSession》 - AVAudioSession类由AVFoundation框架引入。每个IOS应用都有一个音频会话。这个会话可以被AVAudioSession类的sha http://t.cn/zTx7TQX
+发表了博文 《objective-C 中使用@Class和 #import区别》 - objective-c中，当一个类使用到另一个类时，并且在类的头文件中需要创建被引用的指针时，   如下面代码：  http://t.cn/zTc6YMz
+发表了博文 《基于xcode4的iOS framework 制作教程》 - 学习ios开发一段时间了，今天来做个自己的framework，网上找的教程都是xcode3制作的，由于xcode4与3的区别 http://t.cn/zTc64VF
+发表了博文 《iOS的系统架构》 - 1.1.1  iOS的系统架构 iOS的系统架构分为四个层次：核心操作系统层（Core OS layer）、核心服务层（Core Services layer）、 http://t.cn/zTcJFJy
+发表了博文 《SDWebImage使用》 - SDWebImage使用——一个可管理远程图片加载的类库 SDWebImage托管在github上。http://t.cn/zTG3mNj http://t.cn/zTG3mNY
+ @"^1(3[0-9 http://t.cn/zYkxP7j
+ [[UIView alloc] init]; [bgColorView setBackg http://t.cn/zYDNNBt
+发表了博文 《objective-c 中三种产生随机数的方法》 - 1 2 3 4 5 6 7 8 9 10 11 //arc4random() 比较精确不需要生成随即种子 //通过arc4rando http://t.cn/zYDCWoe
+发表了博文 《调用打电话，发短信，打开网址》 - //1、调用 自带mail   [[UIApplication sharedApplication] openURL:[NSURL URLWithSt http://t.cn/zYD9sLo
+发表了博文 《UILocalNotification的使用》 - Notification是智能手机应用编程中非常常用的一种传递信息的机制，而且可以非常好的节省资源，不用消耗资源来不停地检查信息状态（ http://t.cn/zYe0KD9
+ [NSDate dateWithTi http://t.cn/zYe0Xae
+发表了博文 《CLLocationManager定位经纬度，MKReverseGeocoder地址解析， MKMapView 地图显示 iphone》 - CLLocationManager CLLo http://t.cn/zYe7X2y
+发表了博文 《关于IPHONE的设计模式》 - 一直都没有特别关心ios开发过程中的设计模式，觉得这写内容只是一个说法而已，并不能够给编程带来多少帮助。最近从度ios开发基础，突然觉得，上述理解存在问 http://t.cn/zYBOAFs
+发表了博文 《iPhone开发学习笔记020——理解iOS中的MVC设计模式》 - Model: 代表你的应用程序是什么（不是怎么展现） Controller: 控制你的Model怎么展现给用户（UI http://t.cn/zYB0pDm
+发表了博文 《objective-c enum 与 typedef》 - 今天看到enum 和 typedef， 在两个小节中书中分别出现了2个例子，如下 enum direction {north
+发表了博文 《Core Data(1)》 - Core Data是一个功能强大的层，位于SQLite数据库之上，它避免了SQL的复杂性，能让我们以更自然的方式与数据库进行交互。Core Data将数据 http://t.cn/zYEszXv
+发表了博文 《NSSet》 - NSSet是Object-c中使用的最少的集合类，它就如同在一个池子里放进所需要的元素。 它是无序的集合类，并且所存储的所有对象只能有唯一一个，不能重复。 它与NSAr http://t.cn/zYEFEwL
+发表了博文 《基于官方UIImagePicker的图片多选（类似美图秀秀）》 - 使用方法如下： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 MHImagePickerMutil http://t.cn/zYEhzur
+ CGRectMake(0.0
+发表了博文 《ios-获取系统相簿里边的所有照片》 - ios查看相册中的照片需要将程序添加定位服务（location services）中 1、在info.plist文件中添加如下设置 2、 添加库 http://t.cn/zYRPGCN
+发表了博文 《UIImage图片的缩小与放大》 - UIImage可以加载图片，但是我们想要得到一张缩小或放大的图片，利用UIImage不能做到，下面我们添加一个UIImage的分类，用来实现UIIm http://t.cn/zYRP2SQ
+发表了博文 《layoutSubviews何时调用的问题》 - layoutSubviews何时调用的问题，这个方法是当你需要在调整subview的大小的时候需要重写（我这个翻译不严谨，以下是原文：Y http://t.cn/zYRPvjF
+发表了博文 《Dispatch Queue挂起》 - Dispatch Queue挂起 dispatch queue可以被挂起和恢复。使用 dispatch_suspend函数来挂起，使用  disp http://t.cn/zYoTOXj
+发表了博文 《GCD教程（三）：Dispatch Sources》 - 何为Dispatch Sources 简单来说，dispatch source是一个监视某些类型事件的对象。当这些事件发生时，它 http://t.cn/zYoWCvm
+发表了博文 《GCD教程（二）：多核心的性能（下）》 - 对于同步执行，GCD提供了一个简化方法叫做dispatch_apply。这个函数调用单一block多次，并平行运算，然后等待所有运算结束，就像 http://t.cn/zYoW64w
+发表了博文 《GCD教程（一）：基本概念》 - 什么是GCD？ Grand Central Dispatch或者GCD，是一套低层API，提供了一种新的方法来进行并发程序编写。从基本功能上讲，GCD有 http://t.cn/zYoW5gg
+发表了博文 《Blocks与Dispatch Queue的使用》 - block是什么 block是一个C level的语法以及运行时的一个特性，和标准C中的函数（函数指针）类似。用于回调函数的地方。 http://t.cn/zYoOH3V
+发表了博文 《IOS开发网络篇之──ASIHTTPRequest下载示例（支持断点续传）》 - 一、创建网络请求队列  首先，创建网络请求队列，如下：  ASINetworkQueue   *que  http://t.cn/zYoOoIj
+ NSHomeDrietory();//获取Home路径 N http://t.cn/zYoOVn8
+发表了博文 《ASIHttpRequest：创建队列、下载请求、断点续传、解压缩》 - 工程完整代码下载地址：RequestTestDownload1 可完成：   下载指定链接的zip压缩文件 存放 http://t.cn/zYoOyCn
+[[MPMovieP http://t.cn/zYAn4mm
+发表了博文 《摇一摇》 - MoviePlayer看那苹果的官方视频简单抽取直接全屏  MPMoviePlayerController *moviePlaye MoviePlayer看那苹果的官方视频 http://t.cn/zYAnZv4
+[keyArray containsO http://t.cn/zYwCxBJ
+发表了博文 《iPhone开发笔记（一）：NavBar+TarBar以及其他》 - 来自会员umyueyue的分享 iPhone开发 NavBar+TarBar 1 改变NavBar颜色：选中Navi http://t.cn/zYwCfWK
+发表了博文 《IPHONE开发－－－本地化的使用》 - （1）本地化字符串： 1、建立本地化字符串文件： Add--New file--Mac os X--Resoure--选择Strings fil http://t.cn/zYZuO98
+发表了博文 《XCode的一些调试技巧》 - 软网提示：po 命令：为 print object 的缩写，显示对象的文本描述（显示从对象的 description 消息获得的字符串信息）。比如：上图中 http://t.cn/zYZuN4T
+发表了博文 《UIApplication委托信息(多任务）》 - 一般的应用在进入后台的时候可以获取一定时间来运行相关任务，也就是说可以在后台运行一小段时间。 还有三种类型的可以运行在后台， 1.音乐 http://t.cn/zYhOmrx
+发表了博文 《图文解释XCode常用快捷键的使用》 - 刚开始用Xcode是不是发现以前熟悉的开发环境的快捷键都不能用了？怎么快捷运行，停止，编辑等等、都不一样了。快速的掌握这些快捷键，能提供开发的效 http://t.cn/zjkiaQe
+发表了博文 《2011年冬斯坦福大学公开课 iOS应用开发教程学习笔记(第四课)》 - 第四课名称： Views 视图   课程开始老师怀念了一会老乔。接着介绍这次的课程分为两部分，一部分是Calcu http://t.cn/zjkJk62
+发表了博文 《使用Xcode和Instruments调试解决iOS内存泄露》 - 虽然iOS 5.0版本之后加入了ARC机制，由于相互引用关系比较复杂时，内存泄露还是可能存在。所以了解原理很重要。 这 http://t.cn/zjkJ00F
+发表了博文 《iOS动画效果和实现》 - 动画效果提供了状态或页面转换时流畅的用户体验，在iOS系统中，咱们不需要自己编写绘制动画的代码，Core Animation提供了丰富的api来实现你需要的动 http://t.cn/zjkxFRD
+发表了博文 《iOS应用程序生命周期(前后台切换,应用的各种状态)详解》 - iOS的应用程序的生命周期，还有程序是运行在前台还是后台，应用程序各个状态的变换，这些对于开发者来说都是很重要的。 iOS http://t.cn/zjkGJDl
+[[UIImageView alloc] http://t.cn/zjB1NVH
+[backView layer];  //是否设 http://t.cn/zjBa29S
+发表了博文 《关于TableViewCell生成时dequeueReusableCellWithIdentifier的认识》 - 在使用TableView的时候，下面一段代码是必须的，也是最标准的：  http://t.cn/zjB44Ok
+发表了博文 《UISearchBar和UISearchDisplayController》 - UISearchBar继承自UIView、UIResponder、NSObject  属性：  auto http://t.cn/zj3SxgP
+发表了博文 《iPhone消息推送机制实现与探讨》 - Push的原理： Push 的工作机制可以简单的概括为下图 图中，Provider是指某个iPhone软件的Push服务器，这篇文章我将使用.n http://t.cn/zjloqYn
+发表了博文 《UISearchBar和 UISearchDisplayController的使用》 - 最近经常用到搜索类的布局，大体是这样的 上面是一个navigationController，接下 http://t.cn/zjlXI7v
+iOS: 在UITableView中实现搜索功能关键代码 - Season2009 - 博客园 http://t.cn/zWd8K4G
+test post image status : 1 2012-12-19 08:36:52 +0000
+发表了博文 《UIViewController各个方法的加载顺序》 - UIViewController各个方法的加载顺序 加载过程 加载第一步   - (id)initWithNibName:(NS http://t.cn/zjo4VLg
+发表了博文 《由init、loadView、viewDidLoad、viewDidUnload、dealloc的关系说起》 - 由init、loadView、viewDidLoad、viewDidUn http://t.cn/zjxuKSP
+发表了博文 《iOS的基本设计模式》 - 在iOS中有一些基本的设计模式： delegation protocol model-vew-controller target-action notific http://t.cn/zjxn0fT
+发表了博文 《Windows下SVN服务器和客户端的安装与使用》 - 1，软件下载 下载Subversion服务器程序。 到官方网站的下载二进制安装文件，来到二进制包下载部分，找到 Windows N http://t.cn/zjtvRDy
+发表了博文 《ios 使用NSRegularExpression解析正则表达式》 - 初始化一个   NSRegularExpression 对象 注：_str是要匹配的字符串 NSRegularEx http://t.cn/zjUTmuC
+发表了博文 《用实例说明objective-c中的协议,代理和委托》 - 其实书上说的都是很抽象的名词,所以理解起来比较费劲,我发了不少时间才明白到底什么意思,其实用个比喻来说就清晰的多了 比 如我是 http://t.cn/zlBYj6N
+ [[NSString alloc] initWithString:@'abc']; 上面一段代码会执行以 http://t.cn/zlB0qGE
+发表了博文 《iphone--对于Retain和Assign属性的理解》 - 在写程序时，对于要定义的变量进了习惯于加上retain属性，但对其到底起到什么作用却一直不是很明白，今天做了一个demo， http://t.cn/zllMkNg
+发表了博文 《32位操作系统下各种数据类型所占有的字节数》 - 一：整形   int 4字节   long int  4字节   short int  2字节   unsigned int http://t.cn/zlpmHr7
+发表了博文 《const 指针与指向const的指针》 - 当使用带有const的指针时其实有两种意思。一种指的是你不能修改指针本身的内容，另一种指的是你不能修改指针指向的内容。听起来有点混淆一会放个 http://t.cn/zl9thA7
+发表了博文 《get和post》 -  HTTP定义了与服务器交互的不同方法，最基本的方法是 GET 和 POST. HTTP-GET和HTTP-POST是使用HTTP的标准协议动词，用于编码和传送变 http://t.cn/zlSHprS
+发表了博文 《线程与进程的区别》 - 简而言之,一个程序至少有一个进程,一个进程至少有一个线程.  线程的划分尺度小于进程，使得多线程程序的并发性高。 另外，进程在执行过程中拥有独立的内存单元，而多个 http://t.cn/zlSTeS1
+发表了博文 《在ML OS X 10.8 + XCode4.4下实现无证书真机调试IOS5.1.1》 - http://t.cn/zWDiEnG http://t.cn/zWDiEnb
+发表了博文 《IOS --- iphone中进行多线程编程》 - iphone中如何进行多线程编程 转至：http://t.cn/zWDJ2B0 http://t.cn/zWDJ2BC
+我的趣看hiknbb
+我的趣看
+#众悦#
+Moon 
+123456
+图片
+333
+lisa
+九漫
+大爱《海贼王_海贼王 第674话》这个漫画～
